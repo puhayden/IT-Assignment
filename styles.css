@@ -2,7 +2,6 @@
 .introtitle {
 
   text-align: center;
-<<<<<<< HEAD
   margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
@@ -10,19 +9,11 @@
   border: ridge #4B4B4B 20px;
   background-color: #CBCFCE;
   padding: 10px;
-=======
-  height: 400px;
-  font-size: 50px;
-  margin: 10px;
-  position: relative;
-  line-height: 10
->>>>>>> 7cdf67ae28c114e9a6228c4ce4a7d797abb25cb0
 }
 
 
 .intromain {
   text-align: center;
-<<<<<<< HEAD
   margin-left: auto;
   margin-right: auto;
   margin-top: 60px;
@@ -30,10 +21,6 @@
   border: ridge #4B4B4B 20px;
   background-color: #CBCFCE;
   padding: 5px;
-=======
-  font-size: 30px;
-  height: 40px;
->>>>>>> 7cdf67ae28c114e9a6228c4ce4a7d797abb25cb0
 }
 
 
@@ -47,14 +34,13 @@ main {
 }
 
 footer {
-  
+  background-color: #D3D2D2;
 
 }
 
 h1 {
   font-size: 50px;
   color: black;
-
 
 
 }
