@@ -5,9 +5,9 @@
 
 
 .navdesign {
-  border-top: solid #2DA1FB 5px;
-  border-left: solid #4B4B4B 5px;
-  border-bottom: solid #2DA1FB 5px;
+  border-top: inset #2DA1FB 5px;
+  border-left: inset #2DA1FB 5px;
+  border-bottom: inset #2DA1FB 5px;
   text-align: center;
 
 
