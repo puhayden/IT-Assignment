@@ -1,3 +1,4 @@
+
 .nav {
 
    position: absolute; top: 5px; right: 5px; text-align: right;
@@ -8,9 +9,8 @@
   border-top: inset #2DA1FB 5px;
   border-left: inset #2DA1FB 5px;
   border-bottom: inset #2DA1FB 5px;
+  background-color: white;
   text-align: center;
-
-
 }
 
 .para {
