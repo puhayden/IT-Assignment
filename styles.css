@@ -1,3 +1,27 @@
+.parabord{
+  border: inset #2DA1FB 5px;
+  margin: 20px;
+  padding: 10px;
+  background-color: #9ED2FA;
+}
+
+.biastext {
+font-size: 20px;
+text-align: center;
+border: inset #2DA1FB 5px;
+width: 400px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 20px;
+margin-bottom: 20px;
+background-color: #9ED2FA;
+}
+
+.bias {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
 
 .nav {
 
@@ -44,7 +68,9 @@
   padding: 5px;
 }
 
+p { font-family: sans-serif;
 
+}
 
 header {
 
@@ -54,11 +80,9 @@ header {
 main {
 
 text-align: center;
-background-color: #CBCFCE;
 margin-top: 50px;
 margin-left: auto;
 margin-right: auto;
-border: ridge #CBCFCE 10px;
 width: 900px;
 
 }
