@@ -1,8 +1,41 @@
+.lstyle
+{
+   position: absolute;
+   top:200px;
+   right:150px;
+   margin: auto;
+   text-align: center;
+ }
+
+.bigfive
+{
+   position: absolute;
+   top:200px;
+   left: 450px;
+   margin: auto;
+   text-align: center;
+ }
+
+.myerrs
+{
+   position: relative;
+   right: 700px;
+   margin: auto;
+   text-align: center;
+ }
+.imgit {
+  position: relative;
+  margin: auto;
+  text-align: center;
+}
+
+
 .parabord{
   border: inset #2DA1FB 5px;
   margin: 20px;
   padding: 10px;
   background-color: #9ED2FA;
+
 }
 
 .biastext {
@@ -33,14 +66,16 @@ background-color: #9ED2FA;
   border-top: inset #2DA1FB 5px;
   border-left: inset #2DA1FB 5px;
   border-bottom: inset #2DA1FB 5px;
-  background-color: white;
+  background-color: #9ED2FA;
   text-align: center;
+  padding: 10px;
 }
 
 .para {
   font-size: 20px;
   margin: 50px;
-  font-family: sans-serif;
+  font-family: Sans-serif;
+
 
 }
 
@@ -69,6 +104,7 @@ background-color: #9ED2FA;
 }
 
 p { font-family: sans-serif;
+  color: #000000;
 
 }
 
@@ -93,6 +129,7 @@ footer {
 }
 
 h1 {
+  color: #0B4183;
   font-size: 50px;
   text-align: center;
   font-family: monospace;
@@ -103,7 +140,7 @@ h1 {
 }
 
 h2 {
-  color: blue;
+  color:#046E93;
   font-size: 25px;
   font-family: sans-serif;
 
