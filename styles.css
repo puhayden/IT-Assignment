@@ -1,22 +1,35 @@
+.nav {
+
+   position: absolute; top: 5px; right: 5px; text-align: right;
+}
 
 
+.navdesign {
+  border-top: solid #2DA1FB 5px;
+  border-left: solid #4B4B4B 5px;
+  border-bottom: solid #2DA1FB 5px;
+  text-align: center;
+
+
+}
 
 .para {
   font-size: 20px;
   margin: 50px;
+  font-family: sans-serif;
 
 }
 
 .introtitle {
 
   text-align: center;
-  margin-top: 50px;
+  margin-top: 10px;
   margin-left: auto;
   margin-right: auto;
-  width: 600px;
-  border: ridge #4B4B4B 20px;
+  width: 550px;
+  border: ridge #4B4B4B 10px;
   background-color: #CBCFCE;
-  padding: 10px;
+  padding: 5px;
 }
 
 
@@ -24,9 +37,9 @@
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 60px;
+  margin-top: 5px;
   width: 300px;
-  border: ridge #4B4B4B 20px;
+  border: ridge #4B4B4B 10px;
   background-color: #CBCFCE;
   padding: 5px;
 }
@@ -51,21 +64,24 @@ width: 900px;
 }
 
 footer {
-  background-color: #D3D2D2;
+
 
 }
 
 h1 {
   font-size: 50px;
-  color: black;
   text-align: center;
+  font-family: monospace;
+
+
 
 
 }
 
 h2 {
   color: blue;
-  font-size: 30px;
+  font-size: 25px;
+  font-family: sans-serif;
 
 
 }
@@ -73,8 +89,8 @@ h2 {
 body {
   background-image: url("cool-background.png");
 
-
   height: 100%;
+
 
 
   background-position: center;
@@ -82,4 +98,11 @@ body {
   background-size: cover;
 
 
+}
+
+.gallary {
+  max-width: 1000px;
+  margin: 0 auto;
+  display: grid;
+  grid-gap: 2em;
 }
